@@ -1,0 +1,11 @@
+Z:\work\AdventOfCode\Day2\bin\Debug\netcoreapp2.2\Day2.deps.json
+Z:\work\AdventOfCode\Day2\bin\Debug\netcoreapp2.2\Day2.runtimeconfig.json
+Z:\work\AdventOfCode\Day2\bin\Debug\netcoreapp2.2\Day2.runtimeconfig.dev.json
+Z:\work\AdventOfCode\Day2\bin\Debug\netcoreapp2.2\Day2.dll
+Z:\work\AdventOfCode\Day2\bin\Debug\netcoreapp2.2\Day2.pdb
+Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.csprojAssemblyReference.cache
+Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.csproj.CoreCompileInputs.cache
+Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.AssemblyInfoInputs.cache
+Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.AssemblyInfo.cs
+Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.dll
+Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.pdb
