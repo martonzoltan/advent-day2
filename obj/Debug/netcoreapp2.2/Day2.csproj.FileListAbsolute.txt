@@ -9,3 +9,14 @@ Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.AssemblyInfoInputs.cache
 Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.AssemblyInfo.cs
 Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.dll
 Z:\work\AdventOfCode\Day2\obj\Debug\netcoreapp2.2\Day2.pdb
+D:\MzaProject\adventofcode\day2\advent-day2\bin\Debug\netcoreapp2.2\Day2.deps.json
+D:\MzaProject\adventofcode\day2\advent-day2\bin\Debug\netcoreapp2.2\Day2.runtimeconfig.json
+D:\MzaProject\adventofcode\day2\advent-day2\bin\Debug\netcoreapp2.2\Day2.runtimeconfig.dev.json
+D:\MzaProject\adventofcode\day2\advent-day2\bin\Debug\netcoreapp2.2\Day2.dll
+D:\MzaProject\adventofcode\day2\advent-day2\bin\Debug\netcoreapp2.2\Day2.pdb
+D:\MzaProject\adventofcode\day2\advent-day2\obj\Debug\netcoreapp2.2\Day2.csprojAssemblyReference.cache
+D:\MzaProject\adventofcode\day2\advent-day2\obj\Debug\netcoreapp2.2\Day2.csproj.CoreCompileInputs.cache
+D:\MzaProject\adventofcode\day2\advent-day2\obj\Debug\netcoreapp2.2\Day2.AssemblyInfoInputs.cache
+D:\MzaProject\adventofcode\day2\advent-day2\obj\Debug\netcoreapp2.2\Day2.AssemblyInfo.cs
+D:\MzaProject\adventofcode\day2\advent-day2\obj\Debug\netcoreapp2.2\Day2.dll
+D:\MzaProject\adventofcode\day2\advent-day2\obj\Debug\netcoreapp2.2\Day2.pdb

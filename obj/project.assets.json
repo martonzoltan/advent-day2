@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MzA\\.nuget\\packages\\": {},
+    "C:\\Users\\Marton Zoltan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\work\\AdventOfCode\\Day2\\Day2.csproj",
+      "projectUniqueName": "D:\\MzaProject\\adventofcode\\day2\\advent-day2\\Day2.csproj",
       "projectName": "Day2",
-      "projectPath": "Z:\\work\\AdventOfCode\\Day2\\Day2.csproj",
-      "packagesPath": "C:\\Users\\MzA\\.nuget\\packages\\",
-      "outputPath": "Z:\\work\\AdventOfCode\\Day2\\obj\\",
+      "projectPath": "D:\\MzaProject\\adventofcode\\day2\\advent-day2\\Day2.csproj",
+      "packagesPath": "C:\\Users\\Marton Zoltan\\.nuget\\packages\\",
+      "outputPath": "D:\\MzaProject\\adventofcode\\day2\\advent-day2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\MzA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marton Zoltan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -711,7 +711,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://devmodules.report.metrixlab.com/nuget": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/metrixlab/_packaging/DevModulesAzure/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
